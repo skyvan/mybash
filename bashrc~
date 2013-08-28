@@ -10,6 +10,3 @@ alias la='ls -la'
 alias ll='ls -l'
 alias ld='ls -ld'
 alias ..='cd ..'
-alias cls='clear'
-alias ls='ls --color'
-
