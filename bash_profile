@@ -10,5 +10,6 @@ fi
 PATH=$PATH:$HOME/.local/bin:$HOME/bin
 
 export PATH
+clear
 w
-cal `date +"%m"` `date +"%Y"
+cal `date +"%m"` `date +"%Y"`
